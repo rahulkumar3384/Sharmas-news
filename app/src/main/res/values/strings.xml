@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Sharmas Letters</string>
+    <string name="no_content_desc">No Content Description</string>
+    <string name="no_internet">No Internet connection.\nMake sure Wi-Fi or cellular data is tuned on,\nthen try again.</string>
+    <string name="server_error">Error retrieving data from server,\ntry again after some time\nOR\nSwipe down to refresh..</string>
+    <string name="news_open_text">Opening in your browser\u2026</string>
+</resources>
